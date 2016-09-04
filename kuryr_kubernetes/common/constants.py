@@ -1,0 +1,2 @@
+ANNOTATION_PREFIX = 'openstack/kuryr-'
+PORT_ANNOTATION = ANNOTATION_PREFIX + 'port'
