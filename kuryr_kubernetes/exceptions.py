@@ -1,0 +1,2 @@
+class IncompleteStateException(Exception):
+    pass
